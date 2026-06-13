@@ -1,0 +1,39 @@
+
+ .bottom{
+      text-align:center;
+      color:blue;
+      background-color:blanchedalmond
+}
+
+div{
+      background-color:blue;
+      
+      
+      
+      
+}
+.blue{
+      width:50%;
+      height:75%;
+      border:25px;
+      padding:20px;
+      background-color:aliceblue;
+      margin-left: 25%;
+      margin-right: 25%;
+      margin-top: 45px;
+}
+.memo{
+color:aliceblue;
+text-align: center;
+padding-bottom:30px;
+}
+.contact{
+      margin-left:45%;
+     color:blanchedalmond;
+}
+.mine{
+      color:blue;
+      text-align:center;
+       background-color: blanchedalmond;
+
+}
